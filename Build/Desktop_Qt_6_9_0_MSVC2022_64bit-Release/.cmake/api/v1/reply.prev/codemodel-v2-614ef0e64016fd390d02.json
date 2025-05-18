@@ -1,0 +1,198 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Release-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				},
+				{
+					"build" : "_deps/spdlog-build",
+					"childIndexes" : 
+					[
+						2
+					],
+					"jsonFile" : "directory-_deps.spdlog-build-Release-aa9efed908b2c4a97b7c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-src",
+					"targetIndexes" : 
+					[
+						3,
+						7,
+						8
+					]
+				},
+				{
+					"build" : "_deps/spdlog-build/tests",
+					"jsonFile" : "directory-_deps.spdlog-build.tests-Release-a08035915eedf0ff51bf.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 2,
+					"source" : "build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-src/tests",
+					"targetIndexes" : 
+					[
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "PHOST",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						2
+					],
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "spdlog",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3,
+						7,
+						8
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "spdlog_utests",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "PHOST::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PHOST-Release-f227603dc84fa607eb46.json",
+					"name" : "PHOST",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PHOST_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PHOST_autogen-Release-fb36cccf56c9b331bbcc.json",
+					"name" : "PHOST_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PHOST_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PHOST_autogen_timestamp_deps-Release-f24fa3d1856ce7dc5fce.json",
+					"name" : "PHOST_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "spdlog::@eb35cfce7893ccfeff1e",
+					"jsonFile" : "target-spdlog-Release-9c4f057bfe1d21d5d0f2.json",
+					"name" : "spdlog",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "spdlog-utests::@33bfee620fb8a7e44fe2",
+					"jsonFile" : "target-spdlog-utests-Release-29cebab1b95353ae15bc.json",
+					"name" : "spdlog-utests",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "spdlog-utests_autogen::@33bfee620fb8a7e44fe2",
+					"jsonFile" : "target-spdlog-utests_autogen-Release-e9bd14b9dc6bc5aeaf4f.json",
+					"name" : "spdlog-utests_autogen",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "spdlog-utests_autogen_timestamp_deps::@33bfee620fb8a7e44fe2",
+					"jsonFile" : "target-spdlog-utests_autogen_timestamp_deps-Release-7b26a7431ac6ef0d82c5.json",
+					"name" : "spdlog-utests_autogen_timestamp_deps",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "spdlog_autogen::@eb35cfce7893ccfeff1e",
+					"jsonFile" : "target-spdlog_autogen-Release-b1e0932789c6140ef3da.json",
+					"name" : "spdlog_autogen",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "spdlog_autogen_timestamp_deps::@eb35cfce7893ccfeff1e",
+					"jsonFile" : "target-spdlog_autogen_timestamp_deps-Release-a39f3d7543b3f3c92c08.json",
+					"name" : "spdlog_autogen_timestamp_deps",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release",
+		"source" : "D:/Qt Projects/PHOST Program/PHOST/PHOST"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

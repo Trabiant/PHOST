@@ -1,0 +1,182 @@
+{
+	"AUTOGEN_COMMAND_LINE_LENGTH_MAX" : 32000,
+	"BUILD_DIR" : "D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-build/tests/spdlog-utests_autogen",
+	"CMAKE_BINARY_DIR" : "D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-build/tests",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-src/tests",
+	"CMAKE_EXECUTABLE" : "C:/Qt/Tools/CMake_64/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-src/tests/CMakeLists.txt",
+		"D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/.qtc/package-manager/auto-setup.cmake",
+		"D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-src/cmake/utils.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindPkgConfig.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindPackageMessage.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "D:/Qt Projects/PHOST Program/PHOST/PHOST",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-build/tests/spdlog-utests_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "spdlog-utests_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-src/tests/utils.h",
+			"MU",
+			"EWIEGA46WW/moc_utils.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-build/tests/spdlog-utests_autogen/include",
+	"MOC_COMPILATION_FILE" : "D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-build/tests/spdlog-utests_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "SPDLOG_COMPILED_LIB", "WIN32" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-src/include"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT",
+		"Q_ENUM_NS"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : [],
+	"MOC_PREDEFS_FILE" : "",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 6,
+	"PARSE_CACHE_FILE" : "D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-build/tests/CMakeFiles/spdlog-utests_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "C:/Qt/6.9.0/msvc2022_64/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "C:/Qt/6.9.0/msvc2022_64/bin/uic.exe",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 9,
+	"SETTINGS_FILE" : "D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-build/tests/CMakeFiles/spdlog-utests_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-src/tests/main.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-src/tests/test_async.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-src/tests/test_backtrace.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-src/tests/test_cfg.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-src/tests/test_create_dir.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-src/tests/test_daily_logger.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-src/tests/test_dup_filter.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-src/tests/test_errors.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-src/tests/test_eventlog.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-src/tests/test_file_helper.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-src/tests/test_file_logging.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-src/tests/test_fmt_helper.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-src/tests/test_macros.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-src/tests/test_misc.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-src/tests/test_mpmc_q.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-src/tests/test_pattern_formatter.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-src/tests/test_registry.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-src/tests/test_stdout_api.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-src/tests/test_stopwatch.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-src/tests/test_time_point.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-src/tests/utils.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

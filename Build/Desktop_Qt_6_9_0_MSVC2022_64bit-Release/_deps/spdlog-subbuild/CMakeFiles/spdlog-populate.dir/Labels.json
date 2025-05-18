@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-subbuild/CMakeFiles/spdlog-populate"
+		},
+		{
+			"file" : "D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-subbuild/CMakeFiles/spdlog-populate.rule"
+		},
+		{
+			"file" : "D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-subbuild/CMakeFiles/spdlog-populate-complete.rule"
+		},
+		{
+			"file" : "D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-build.rule"
+		},
+		{
+			"file" : "D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-configure.rule"
+		},
+		{
+			"file" : "D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-download.rule"
+		},
+		{
+			"file" : "D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-install.rule"
+		},
+		{
+			"file" : "D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-mkdir.rule"
+		},
+		{
+			"file" : "D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-patch.rule"
+		},
+		{
+			"file" : "D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-test.rule"
+		},
+		{
+			"file" : "D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"spdlog-populate"
+		],
+		"name" : "spdlog-populate"
+	}
+}

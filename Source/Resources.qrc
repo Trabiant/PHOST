@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>PHOST_icon.png</file>
+        <file>TopLeftEdited.png</file>
+        <file>TopRightEdited.png</file>
+        <file>Inter.ttf</file>
+    </qresource>
+</RCC>

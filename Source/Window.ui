@@ -1,0 +1,1276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Window</class>
+ <widget class="QWidget" name="Window">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>981</width>
+    <height>654</height>
+   </rect>
+  </property>
+  <property name="palette">
+   <palette>
+    <active>
+     <colorrole role="WindowText">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>255</red>
+        <green>255</green>
+        <blue>255</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="Button">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>26</red>
+        <green>26</green>
+        <blue>26</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="Text">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>255</red>
+        <green>255</green>
+        <blue>255</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="ButtonText">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>255</red>
+        <green>255</green>
+        <blue>255</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="Base">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>26</red>
+        <green>26</green>
+        <blue>26</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="Window">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>26</red>
+        <green>26</green>
+        <blue>26</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="Highlight">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>30</red>
+        <green>30</green>
+        <blue>30</blue>
+       </color>
+      </brush>
+     </colorrole>
+    </active>
+    <inactive>
+     <colorrole role="WindowText">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>255</red>
+        <green>255</green>
+        <blue>255</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="Button">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>26</red>
+        <green>26</green>
+        <blue>26</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="Text">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>255</red>
+        <green>255</green>
+        <blue>255</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="ButtonText">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>255</red>
+        <green>255</green>
+        <blue>255</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="Base">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>26</red>
+        <green>26</green>
+        <blue>26</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="Window">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>26</red>
+        <green>26</green>
+        <blue>26</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="Highlight">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>30</red>
+        <green>30</green>
+        <blue>30</blue>
+       </color>
+      </brush>
+     </colorrole>
+    </inactive>
+    <disabled>
+     <colorrole role="Button">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>26</red>
+        <green>26</green>
+        <blue>26</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="Base">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>26</red>
+        <green>26</green>
+        <blue>26</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="Window">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>26</red>
+        <green>26</green>
+        <blue>26</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="Highlight">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>30</red>
+        <green>30</green>
+        <blue>30</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="LinkVisited">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>30</red>
+        <green>30</green>
+        <blue>30</blue>
+       </color>
+      </brush>
+     </colorrole>
+    </disabled>
+   </palette>
+  </property>
+  <property name="cursor">
+   <cursorShape>ArrowCursor</cursorShape>
+  </property>
+  <property name="mouseTracking">
+   <bool>false</bool>
+  </property>
+  <property name="windowTitle">
+   <string>PHOST</string>
+  </property>
+  <property name="windowIcon">
+   <iconset resource="Resources.qrc">
+    <normaloff>:/PHOST_icon.png</normaloff>:/PHOST_icon.png</iconset>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">QWidget {
+	background-color: #1A1A1A;
+}</string>
+  </property>
+  <widget class="QPushButton" name="creatProject">
+   <property name="geometry">
+    <rect>
+     <x>466</x>
+     <y>52</y>
+     <width>91</width>
+     <height>10</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Inter</family>
+     <pointsize>8</pointsize>
+     <fontweight>DemiBold</fontweight>
+    </font>
+   </property>
+   <property name="toolTip">
+    <string/>
+   </property>
+   <property name="statusTip">
+    <string/>
+   </property>
+   <property name="whatsThis">
+    <string/>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton{
+	color: #FFFFFF;
+	font-family: &quot;Inter&quot;;
+	border: 0 px;
+	background-color: transparent;
+}
+QPushButton:pressed {
+    color: #c8c8c8;
+}</string>
+   </property>
+   <property name="text">
+    <string>Create project</string>
+   </property>
+   <property name="autoExclusive">
+    <bool>false</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="programmName">
+   <property name="geometry">
+    <rect>
+     <x>73</x>
+     <y>47</y>
+     <width>81</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Inter</family>
+     <pointsize>14</pointsize>
+     <stylestrategy>PreferDefault</stylestrategy>
+     <fontweight>DemiBold</fontweight>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: #FFFFFF;
+font-family: &quot;Inter&quot;;
+background-color: transparent;
+</string>
+   </property>
+   <property name="text">
+    <string>Phost</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Start">
+   <property name="geometry">
+    <rect>
+     <x>900</x>
+     <y>56</y>
+     <width>51</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Inter</family>
+     <pointsize>13</pointsize>
+     <fontweight>DemiBold</fontweight>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton {
+	color: #FFFFFF;
+	font-family: &quot;Inter&quot;;
+	border: 0 px;
+	background-color: transparent;
+}
+
+QPushButton:disabled {
+   color: #5b5b5b;
+}
+QPushButton:pressed {
+    color: #c8c8c8;
+}</string>
+   </property>
+   <property name="text">
+    <string>Start</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="rcLink">
+   <property name="geometry">
+    <rect>
+     <x>466</x>
+     <y>71</y>
+     <width>121</width>
+     <height>10</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Inter</family>
+     <pointsize>8</pointsize>
+     <fontweight>DemiBold</fontweight>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton{
+	color: #FFFFFF;
+	font-family: &quot;Inter&quot;;
+	border: 0 px;
+	background-color: transparent;
+}
+QPushButton:pressed {
+    color: #c8c8c8;
+}</string>
+   </property>
+   <property name="text">
+    <string>Link RealityCapture</string>
+   </property>
+  </widget>
+  <widget class="QFrame" name="titleBar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>981</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: #1E1E1E;
+border: none;
+border-top-left-radius: 7px;
+border-top-right-radius: 7px;</string>
+   </property>
+   <property name="frameShadow">
+    <enum>QFrame::Shadow::Raised</enum>
+   </property>
+   <widget class="QPushButton" name="Hide">
+    <property name="geometry">
+     <rect>
+      <x>911</x>
+      <y>0</y>
+      <width>35</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton{
+	border: 0 px;
+	background-color: #333333;
+	border-radius: 10 px;
+}
+QPushButton:hover {
+    background-color: #5b5b5b;
+}</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Close">
+    <property name="geometry">
+     <rect>
+      <x>946</x>
+      <y>0</y>
+      <width>35</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton{
+	background-color: #a63838;
+	border: none; 
+	border-top-left-radius: 0px;
+	border-top-right-radius: 7px;
+    
+}
+QPushButton:hover {
+    background-color: #F64C4C;
+}</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="miniProgrammName">
+    <property name="geometry">
+     <rect>
+      <x>6</x>
+      <y>0</y>
+      <width>31</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Inter</family>
+      <pointsize>7</pointsize>
+      <bold>true</bold>
+      <kerning>true</kerning>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: #FFFFFF;
+font-family: &quot;Inter&quot;;
+</string>
+    </property>
+    <property name="text">
+     <string>Phost</string>
+    </property>
+   </widget>
+   <zorder>Hide</zorder>
+   <zorder>miniProgrammName</zorder>
+   <zorder>Close</zorder>
+  </widget>
+  <widget class="QPushButton" name="saveMask">
+   <property name="geometry">
+    <rect>
+     <x>884</x>
+     <y>613</y>
+     <width>80</width>
+     <height>24</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Inter</family>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton{
+	color: #FFFFFF;
+	font-family: &quot;Inter&quot;;
+	font-size: 11 px;
+	font-weight: bold;
+	border-radius: 4px;
+	background-color: #3870A6;
+}
+QPushButton:hover{
+	border: 1px solid #438ac8;
+}
+QPushButton:disabled {
+   color: #2d4964;
+}
+QPushButton:pressed {
+    background-color: #274e73;
+    color: #c8c8c8;
+	border: 1px solid #274e73;
+}</string>
+   </property>
+   <property name="text">
+    <string>Save mask</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="drawMask">
+   <property name="geometry">
+    <rect>
+     <x>774</x>
+     <y>613</y>
+     <width>80</width>
+     <height>24</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Inter</family>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton{
+	color: #FFFFFF;
+	font-family: &quot;Inter&quot;;
+	font-size: 11 px;
+	font-weight: bold;
+	border-radius: 4px;
+	background-color: #3870A6;
+}
+QPushButton:hover{
+	border: 1px solid #438ac8;
+}
+QPushButton:disabled {
+   color: #2d4964;
+}
+QPushButton:pressed {
+    background-color: #274e73;
+    color: #c8c8c8;
+	border: 1px solid #274e73;
+}</string>
+   </property>
+   <property name="text">
+    <string>Draw mask</string>
+   </property>
+  </widget>
+  <widget class="QProgressBar" name="progressBar">
+   <property name="enabled">
+    <bool>true</bool>
+   </property>
+   <property name="geometry">
+    <rect>
+     <x>11</x>
+     <y>630</y>
+     <width>443</width>
+     <height>7</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <stylestrategy>PreferDefault</stylestrategy>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QProgressBar {
+    border-radius: 1 px;
+    background-color: #8C8C8C;
+}
+QProgressBar::chunk {
+    background-color: #EBEBEB;
+    border-radius: 1 px;
+}
+</string>
+   </property>
+   <property name="minimum">
+    <number>0</number>
+   </property>
+   <property name="value">
+    <number>0</number>
+   </property>
+   <property name="textVisible">
+    <bool>false</bool>
+   </property>
+  </widget>
+  <widget class="QFrame" name="frameRcStatus">
+   <property name="geometry">
+    <rect>
+     <x>583</x>
+     <y>74</y>
+     <width>6</width>
+     <height>6</height>
+    </rect>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>6</width>
+     <height>6</height>
+    </size>
+   </property>
+   <property name="maximumSize">
+    <size>
+     <width>10</width>
+     <height>10</height>
+    </size>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border: 0px;
+background-color: #F64C4C;
+border-radius: 3px;</string>
+   </property>
+   <property name="frameShape">
+    <enum>QFrame::Shape::NoFrame</enum>
+   </property>
+   <property name="frameShadow">
+    <enum>QFrame::Shadow::Raised</enum>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>610</x>
+     <y>49</y>
+     <width>135</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Inter</family>
+     <pointsize>8</pointsize>
+     <fontweight>DemiBold</fontweight>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: #FFFFFF;
+font-family: &quot;Inter&quot;;
+background-color: transparent;
+</string>
+   </property>
+   <property name="text">
+    <string>Photometric Stereo Set</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="eight">
+   <property name="geometry">
+    <rect>
+     <x>644</x>
+     <y>69</y>
+     <width>33</width>
+     <height>15</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Inter</family>
+     <pointsize>7</pointsize>
+     <bold>false</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton {
+    padding: 0;
+    margin: 0;
+    font-family: &quot;Inter&quot;;
+    font-size: 7 px;
+    color: #FFFFFF;
+    background-color: #262626;
+    border: none;
+    text-align: center;       /* Работает здесь! */
+    vertical-align: middle;   /* И это будет работать */
+	font-weight: regular;
+	border-radius: 3px;
+}
+
+QPushButton:hover {
+    background-color: #2d2d2d;
+}
+QPushButton:checked {
+    background-color: #3870A6;
+}</string>
+   </property>
+   <property name="text">
+    <string>8</string>
+   </property>
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="checked">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="four">
+   <property name="geometry">
+    <rect>
+     <x>611</x>
+     <y>69</y>
+     <width>33</width>
+     <height>15</height>
+    </rect>
+   </property>
+   <property name="sizePolicy">
+    <sizepolicy hsizetype="Minimum" vsizetype="Fixed">
+     <horstretch>0</horstretch>
+     <verstretch>0</verstretch>
+    </sizepolicy>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>0</width>
+     <height>0</height>
+    </size>
+   </property>
+   <property name="font">
+    <font>
+     <family>Inter</family>
+     <pointsize>7</pointsize>
+     <bold>false</bold>
+     <hintingpreference>PreferDefaultHinting</hintingpreference>
+    </font>
+   </property>
+   <property name="layoutDirection">
+    <enum>Qt::LayoutDirection::LeftToRight</enum>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton {
+    padding: 0;
+    margin: 0;
+    font-family: &quot;Inter&quot;;
+    font-size: 7 px;
+    color: #FFFFFF;
+    background-color: #262626;
+    border: none;
+    text-align: center;       /* Работает здесь! */
+    vertical-align: middle;   /* И это будет работать */
+	font-weight: regular;
+	border-radius: 3px;
+}
+
+QPushButton:hover {
+    background-color: #2d2d2d;
+}
+
+QPushButton:checked {
+    background-color: #3870A6;
+}
+</string>
+   </property>
+   <property name="text">
+    <string>4</string>
+   </property>
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="twelve">
+   <property name="geometry">
+    <rect>
+     <x>677</x>
+     <y>69</y>
+     <width>33</width>
+     <height>15</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Inter</family>
+     <pointsize>7</pointsize>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton {
+    padding: 0;
+    margin: 0;
+    font-family: &quot;Inter&quot;;
+    font-size: 7 px;
+    color: #FFFFFF;
+    background-color: #262626;
+    border: none;
+    text-align: center;       /* Работает здесь! */
+    vertical-align: middle;   /* И это будет работать */
+	font-weight: regular;
+	border-radius: 3px;
+}
+
+QPushButton:hover {
+    background-color: #2d2d2d;
+}
+QPushButton:checked {
+    background-color: #3870A6;
+}
+</string>
+   </property>
+   <property name="text">
+    <string>12</string>
+   </property>
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="sixteen">
+   <property name="geometry">
+    <rect>
+     <x>710</x>
+     <y>69</y>
+     <width>33</width>
+     <height>15</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Inter</family>
+     <pointsize>7</pointsize>
+     <bold>false</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton {
+    padding: 0;
+    margin: 0;
+    font-family: &quot;Inter&quot;;
+    font-size: 7 px;
+    color: #FFFFFF;
+    background-color: #262626;
+    border: none;
+    text-align: center;       /* Работает здесь! */
+    vertical-align: middle;   /* И это будет работать */
+	font-weight: regular;
+	border-radius: 3px;
+}
+
+QPushButton:hover {
+    background-color: #2d2d2d;
+}
+QPushButton:checked {
+    background-color: #3870A6;
+}
+
+</string>
+   </property>
+   <property name="text">
+    <string>16</string>
+   </property>
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="checked">
+    <bool>false</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_3">
+   <property name="geometry">
+    <rect>
+     <x>770</x>
+     <y>49</y>
+     <width>108</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Inter</family>
+     <pointsize>8</pointsize>
+     <fontweight>DemiBold</fontweight>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: #FFFFFF;
+font-family: &quot;Inter&quot;;
+background-color: transparent;</string>
+   </property>
+   <property name="text">
+    <string>Normal Orientation</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="DirectX">
+   <property name="geometry">
+    <rect>
+     <x>769</x>
+     <y>69</y>
+     <width>45</width>
+     <height>15</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Inter</family>
+     <pointsize>7</pointsize>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton {
+    padding: 0;
+    margin: 0;
+    font-family: &quot;Inter&quot;;
+    font-size: 7 px;
+    color: #FFFFFF;
+    background-color: #262626;
+    border: none;
+    text-align: center;       /* Работает здесь! */
+    vertical-align: middle;   /* И это будет работать */
+	font-weight: regular;
+	border-radius: 3px;
+}
+
+QPushButton:hover {
+    background-color: #2d2d2d;
+}
+
+QPushButton:checked {
+    background-color: #3870A6;
+}
+</string>
+   </property>
+   <property name="text">
+    <string>DirectX</string>
+   </property>
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="OpenGL">
+   <property name="geometry">
+    <rect>
+     <x>814</x>
+     <y>69</y>
+     <width>45</width>
+     <height>15</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Inter</family>
+     <pointsize>7</pointsize>
+     <bold>false</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton {
+    min-width: 39 px;
+    min-height: 12 px;
+    padding: 0;
+    margin: 0;
+    font-family: &quot;Inter&quot;;
+    font-size: 7 px;
+    color: #FFFFFF;
+    background-color: #262626;
+    border: none;
+    text-align: center;       /* Работает здесь! */
+    vertical-align: middle;   /* И это будет работать */
+	font-weight: regular;
+	border-radius: 3px;
+}
+
+QPushButton:hover {
+    background-color: #2d2d2d;
+}
+
+QPushButton:checked {
+    background-color: #3870A6;
+}
+</string>
+   </property>
+   <property name="text">
+    <string>OpenGL</string>
+   </property>
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="checked">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QFrame" name="frame">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>981</width>
+     <height>654</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-radius: 8px;
+color: #1A1A1A;</string>
+   </property>
+   <property name="frameShape">
+    <enum>QFrame::Shape::NoFrame</enum>
+   </property>
+   <property name="frameShadow">
+    <enum>QFrame::Shadow::Raised</enum>
+   </property>
+   <widget class="QLabel" name="TopLeft">
+    <property name="geometry">
+     <rect>
+      <x>14</x>
+      <y>34</y>
+      <width>451</width>
+      <height>66</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="Resources.qrc">:/TopLeftEdited.png</pixmap>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QLabel" name="icon">
+    <property name="geometry">
+     <rect>
+      <x>18</x>
+      <y>41</y>
+      <width>52</width>
+      <height>52</height>
+     </rect>
+    </property>
+    <property name="minimumSize">
+     <size>
+      <width>52</width>
+      <height>52</height>
+     </size>
+    </property>
+    <property name="maximumSize">
+     <size>
+      <width>52</width>
+      <height>52</height>
+     </size>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: transparent;</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="Resources.qrc">:/PHOST_icon.png</pixmap>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Workflow">
+    <property name="geometry">
+     <rect>
+      <x>190</x>
+      <y>56</y>
+      <width>80</width>
+      <height>24</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Inter</family>
+      <pointsize>11</pointsize>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: #FFFFFF;
+font-family: &quot;Inter&quot;;
+border: 0 px;
+background-color: transparent;</string>
+    </property>
+    <property name="text">
+     <string>Workflow</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Editor">
+    <property name="geometry">
+     <rect>
+      <x>326</x>
+      <y>56</y>
+      <width>51</width>
+      <height>24</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Inter</family>
+      <pointsize>11</pointsize>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: #FFFFFF;
+font-family: &quot;Inter&quot;;
+border: 0 px;
+background-color: transparent;</string>
+    </property>
+    <property name="text">
+     <string>Editor</string>
+    </property>
+   </widget>
+   <widget class="QStackedWidget" name="stackedWidget">
+    <property name="geometry">
+     <rect>
+      <x>14</x>
+      <y>110</y>
+      <width>952</width>
+      <height>487</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: transparent;</string>
+    </property>
+    <property name="currentIndex">
+     <number>1</number>
+    </property>
+    <widget class="QWidget" name="page">
+     <widget class="QLabel" name="mainView">
+      <property name="geometry">
+       <rect>
+        <x>453</x>
+        <y>0</y>
+        <width>499</width>
+        <height>281</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">border: 0 px;
+background-color: #161616;</string>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="scaledContents">
+       <bool>false</bool>
+      </property>
+      <property name="alignment">
+       <set>Qt::AlignmentFlag::AlignCenter</set>
+      </property>
+     </widget>
+     <widget class="QListWidget" name="thumbList">
+      <property name="geometry">
+       <rect>
+        <x>453</x>
+        <y>281</y>
+        <width>499</width>
+        <height>206</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">border: 0 px;
+background-color: #161616;</string>
+      </property>
+      <property name="iconSize">
+       <size>
+        <width>80</width>
+        <height>80</height>
+       </size>
+      </property>
+      <property name="movement">
+       <enum>QListView::Movement::Static</enum>
+      </property>
+      <property name="resizeMode">
+       <enum>QListView::ResizeMode::Adjust</enum>
+      </property>
+      <property name="layoutMode">
+       <enum>QListView::LayoutMode::SinglePass</enum>
+      </property>
+      <property name="gridSize">
+       <size>
+        <width>103</width>
+        <height>53</height>
+       </size>
+      </property>
+      <property name="viewMode">
+       <enum>QListView::ViewMode::IconMode</enum>
+      </property>
+     </widget>
+     <widget class="QListWidget" name="listPackages">
+      <property name="geometry">
+       <rect>
+        <x>0</x>
+        <y>0</y>
+        <width>451</width>
+        <height>487</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">border: 0 px;</string>
+      </property>
+     </widget>
+    </widget>
+    <widget class="QWidget" name="page_2"/>
+   </widget>
+   <widget class="QWidget" name="layoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>15</x>
+      <y>602</y>
+      <width>371</width>
+      <height>22</height>
+     </rect>
+    </property>
+    <layout class="QHBoxLayout" name="horizontalLayout">
+     <item>
+      <widget class="QLabel" name="statusText">
+       <property name="font">
+        <font>
+         <family>Inter</family>
+         <pointsize>10</pointsize>
+         <bold>true</bold>
+        </font>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">color: #FFFFFF;
+font-family: &quot;Inter&quot;;
+</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <spacer name="horizontalSpacer">
+       <property name="orientation">
+        <enum>Qt::Orientation::Horizontal</enum>
+       </property>
+       <property name="sizeType">
+        <enum>QSizePolicy::Policy::Fixed</enum>
+       </property>
+       <property name="sizeHint" stdset="0">
+        <size>
+         <width>30</width>
+         <height>20</height>
+        </size>
+       </property>
+      </spacer>
+     </item>
+     <item>
+      <widget class="QLabel" name="estimationText">
+       <property name="font">
+        <font>
+         <family>Inter</family>
+         <pointsize>10</pointsize>
+         <bold>true</bold>
+        </font>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">color: #FFFFFF;
+font-family: &quot;Inter&quot;;</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+  </widget>
+  <widget class="QLabel" name="TopRight">
+   <property name="geometry">
+    <rect>
+     <x>467</x>
+     <y>34</y>
+     <width>499</width>
+     <height>66</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap resource="Resources.qrc">:/TopRightEdited.png</pixmap>
+   </property>
+   <property name="scaledContents">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <zorder>frame</zorder>
+  <zorder>saveMask</zorder>
+  <zorder>drawMask</zorder>
+  <zorder>titleBar</zorder>
+  <zorder>progressBar</zorder>
+  <zorder>programmName</zorder>
+  <zorder>TopRight</zorder>
+  <zorder>DirectX</zorder>
+  <zorder>four</zorder>
+  <zorder>OpenGL</zorder>
+  <zorder>label_3</zorder>
+  <zorder>label_2</zorder>
+  <zorder>creatProject</zorder>
+  <zorder>eight</zorder>
+  <zorder>Start</zorder>
+  <zorder>rcLink</zorder>
+  <zorder>sixteen</zorder>
+  <zorder>twelve</zorder>
+  <zorder>frameRcStatus</zorder>
+ </widget>
+ <resources>
+  <include location="Resources.qrc"/>
+ </resources>
+ <connections/>
+</ui>

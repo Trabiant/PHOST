@@ -1,0 +1,15 @@
+D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/CMakeFiles/PHOST.dir
+D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/CMakeFiles/edit_cache.dir
+D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/CMakeFiles/rebuild_cache.dir
+D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/CMakeFiles/PHOST_autogen_timestamp_deps.dir
+D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/CMakeFiles/PHOST_autogen.dir
+D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-build/CMakeFiles/spdlog.dir
+D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-build/CMakeFiles/edit_cache.dir
+D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-build/CMakeFiles/rebuild_cache.dir
+D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-build/CMakeFiles/spdlog_autogen_timestamp_deps.dir
+D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-build/CMakeFiles/spdlog_autogen.dir
+D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-build/tests/CMakeFiles/spdlog-utests.dir
+D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-build/tests/CMakeFiles/edit_cache.dir
+D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-build/tests/CMakeFiles/rebuild_cache.dir
+D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-build/tests/CMakeFiles/spdlog-utests_autogen_timestamp_deps.dir
+D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-build/tests/CMakeFiles/spdlog-utests_autogen.dir

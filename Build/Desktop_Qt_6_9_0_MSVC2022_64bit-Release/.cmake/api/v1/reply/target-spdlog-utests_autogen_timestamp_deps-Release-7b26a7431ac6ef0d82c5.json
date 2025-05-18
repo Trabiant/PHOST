@@ -1,0 +1,34 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-src/tests/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "spdlog::@eb35cfce7893ccfeff1e"
+		}
+	],
+	"id" : "spdlog-utests_autogen_timestamp_deps::@33bfee620fb8a7e44fe2",
+	"isGeneratorProvided" : true,
+	"name" : "spdlog-utests_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "_deps/spdlog-build/tests",
+		"source" : "build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-src/tests"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

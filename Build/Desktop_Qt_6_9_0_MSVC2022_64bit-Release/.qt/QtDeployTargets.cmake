@@ -1,0 +1,8 @@
+set(__QT_DEPLOY_TARGET_spdlog-utests_FILE D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-build/tests/spdlog-utests.exe)
+set(__QT_DEPLOY_TARGET_spdlog-utests_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_spdlog-utests_RUNTIME_DLLS )
+set(__QT_DEPLOY_TARGET_spdlog_FILE D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-build/spdlog.lib)
+set(__QT_DEPLOY_TARGET_spdlog_TYPE STATIC_LIBRARY)
+set(__QT_DEPLOY_TARGET_PHOST_FILE D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/PHOST.exe)
+set(__QT_DEPLOY_TARGET_PHOST_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_PHOST_RUNTIME_DLLS C:/Qt/6.9.0/msvc2022_64/bin/Qt6QuickWidgets.dll;C:/opencv/opencv/build/x64/vc16/bin/opencv_world4110.dll;C:/opencv/opencv/build/x64/vc16/bin/opencv_world4110.dll;C:/opencv/opencv/build/x64/vc16/bin/opencv_world4110.dll;C:/opencv/opencv/build/x64/vc16/bin/opencv_world4110.dll;C:/opencv/opencv/build/x64/vc16/bin/opencv_world4110.dll;C:/opencv/opencv/build/x64/vc16/bin/opencv_world4110.dll;C:/opencv/opencv/build/x64/vc16/bin/opencv_world4110.dll;C:/opencv/opencv/build/x64/vc16/bin/opencv_world4110.dll;C:/Qt/6.9.0/msvc2022_64/bin/Qt6Widgets.dll;C:/Qt/6.9.0/msvc2022_64/bin/Qt6Quick.dll;C:/Qt/6.9.0/msvc2022_64/bin/Qt6QmlMeta.dll;C:/Qt/6.9.0/msvc2022_64/bin/Qt6QmlWorkerScript.dll;C:/Qt/6.9.0/msvc2022_64/bin/Qt6QmlModels.dll;C:/Qt/6.9.0/msvc2022_64/bin/Qt6OpenGL.dll;C:/Qt/6.9.0/msvc2022_64/bin/Qt6Gui.dll;C:/Qt/6.9.0/msvc2022_64/bin/Qt6Qml.dll;C:/Qt/6.9.0/msvc2022_64/bin/Qt6Network.dll;C:/Qt/6.9.0/msvc2022_64/bin/Qt6Core.dll)

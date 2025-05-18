@@ -1,0 +1,103 @@
+# ninja log v6
+217	3760	7690446987355461	_deps/spdlog-build/CMakeFiles/spdlog.dir/src/spdlog.cpp.obj	596cbdc0547c7bdc
+87	207	7690446986735317	_deps/spdlog-build/spdlog_autogen/timestamp	1abc5a3006d1307c
+87	207	7690446986735317	D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-build/spdlog_autogen/mocs_compilation.cpp	1abc5a3006d1307c
+87	207	7690446986735317	_deps/spdlog-build/spdlog_autogen/mocs_compilation.cpp	1abc5a3006d1307c
+2670	12249	7691034532149211	CMakeFiles/PHOST.dir/TextureGenerator.cpp.obj	af4a5ceaa6e24591
+87	207	7690446986735317	D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-build/spdlog_autogen/timestamp	1abc5a3006d1307c
+209	304	7690446987275444	_deps/spdlog-build/CMakeFiles/spdlog.dir/spdlog_autogen/mocs_compilation.cpp.obj	81619f4182c60452
+241	1247	7690446987585513	_deps/spdlog-build/CMakeFiles/spdlog.dir/src/file_sinks.cpp.obj	7ebf9eca420cb817
+247	1558	7690446987645528	_deps/spdlog-build/CMakeFiles/spdlog.dir/src/async.cpp.obj	9838fc4736c536c4
+234	1603	7690446987515499	_deps/spdlog-build/CMakeFiles/spdlog.dir/src/color_sinks.cpp.obj	ff0aa1698d0bffb7
+2657	9856	7691034532009176	CMakeFiles/PHOST.dir/PhotometricStereo.cpp.obj	e8eace73e6777a46
+253	1625	7690446987715541	_deps/spdlog-build/CMakeFiles/spdlog.dir/src/cfg.cpp.obj	66257933eec9493f
+3061	6543	7691034536050092	CMakeFiles/PHOST.dir/HandleItem.cpp.obj	702a25b751288501
+224	1654	7690446987425482	_deps/spdlog-build/CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.obj	998642abbcf47e4e
+10978	16047	7690447094965134	_deps/spdlog-build/tests/CMakeFiles/spdlog-utests.dir/test_errors.cpp.obj	c19d1782468d6a79
+19738	24774	7690447182563067	CMakeFiles/PHOST.dir/PHOST_autogen/EWIEGA46WW/qrc_Resources.cpp.obj	1475431177ad69
+260	2444	7690446987785560	_deps/spdlog-build/CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.obj	416efe8fa0293ebd
+4108	4327	7690447026270815	_deps/spdlog-build/tests/CMakeFiles/spdlog-utests.dir/spdlog-utests_autogen/mocs_compilation.cpp.obj	1fb1d4c8886937b7
+3760	3979	7690447022782993	_deps/spdlog-build/spdlog.lib	8cf2b640138be20c
+4195	19088	7690447027131010	_deps/spdlog-build/tests/CMakeFiles/spdlog-utests.dir/main.cpp.obj	c748b840c43265fb
+3987	4108	7690447025620672	_deps/spdlog-build/tests/spdlog-utests_autogen/timestamp	a63ff2f1050d205b
+3987	4108	7690447025620672	D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-build/tests/spdlog-utests_autogen/mocs_compilation.cpp	a63ff2f1050d205b
+3987	4108	7690447025620672	_deps/spdlog-build/tests/spdlog-utests_autogen/mocs_compilation.cpp	a63ff2f1050d205b
+11084	13497	7691051470753673	PHOST.exe	fb8f99d5338ab071
+3987	4108	7690447025620672	D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/_deps/spdlog-build/tests/spdlog-utests_autogen/timestamp	a63ff2f1050d205b
+4131	12994	7690447026500884	_deps/spdlog-build/tests/CMakeFiles/spdlog-utests.dir/test_daily_logger.cpp.obj	74e9dd72ef6d72e
+2707	38815	7691034532509287	CMakeFiles/PHOST.dir/PhotometricStereo.cu.obj	f2a481c64055c2db
+4210	7873	7690447027281046	_deps/spdlog-build/tests/CMakeFiles/spdlog-utests.dir/test_mpmc_q.cpp.obj	b151a23f5a5aa455
+4168	7935	7690447026870951	_deps/spdlog-build/tests/CMakeFiles/spdlog-utests.dir/test_registry.cpp.obj	1422aae48c1ab573
+4125	8167	7690447026430856	_deps/spdlog-build/tests/CMakeFiles/spdlog-utests.dir/test_file_logging.cpp.obj	4f0f10ba499ce59e
+4327	8475	7690447028461313	_deps/spdlog-build/tests/CMakeFiles/spdlog-utests.dir/test_dup_filter.cpp.obj	7a7de6af1b164b27
+10661	14314	7690447091800204	_deps/spdlog-build/tests/CMakeFiles/spdlog-utests.dir/test_stopwatch.cpp.obj	c977a8db95625e9
+12105	14206	7690447123915536	PHOST_autogen/EWIEGA46WW/qrc_Resources.cpp	195701c1b156666c
+1403	5809	7691051373947843	CMakeFiles/PHOST.dir/MaskEditorView.cpp.obj	f3133778658d8706
+4188	8749	7690447027060995	_deps/spdlog-build/tests/CMakeFiles/spdlog-utests.dir/utils.cpp.obj	73193b08e90595b9
+177	1377	7691051372257456	PHOST_autogen/timestamp	6acff3b56644313e
+177	1377	7691051372257456	D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/PHOST_autogen/timestamp	6acff3b56644313e
+4147	9397	7690447026650900	_deps/spdlog-build/tests/CMakeFiles/spdlog-utests.dir/test_eventlog.cpp.obj	c18b13198c69036
+1379	8086	7691051373717784	CMakeFiles/PHOST.dir/PHOST_autogen/mocs_compilation.cpp.obj	69a4191c5caac884
+14314	52018	7690447128321909	CMakeFiles/PHOST.dir/NormalConverter.cu.obj	9610a6dd41ec345
+4154	10661	7690447026720917	_deps/spdlog-build/tests/CMakeFiles/spdlog-utests.dir/test_pattern_formatter.cpp.obj	513ef5506993f3c8
+4139	10977	7690447026570886	_deps/spdlog-build/tests/CMakeFiles/spdlog-utests.dir/test_misc.cpp.obj	17c2deb9dfd7b1b6
+4162	11000	7690447026800935	_deps/spdlog-build/tests/CMakeFiles/spdlog-utests.dir/test_async.cpp.obj	1d270790c56c925e
+4180	11008	7690447026980976	_deps/spdlog-build/tests/CMakeFiles/spdlog-utests.dir/test_macros.cpp.obj	59f684e284cd95c9
+4118	11579	7690447026370837	_deps/spdlog-build/tests/CMakeFiles/spdlog-utests.dir/test_file_helper.cpp.obj	1a50ba6a57425d66
+177	1377	7691051372257456	PHOST_autogen/mocs_compilation.cpp	6acff3b56644313e
+177	1377	7691051372257456	D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/PHOST_autogen/mocs_compilation.cpp	6acff3b56644313e
+7873	12705	7690447063925050	_deps/spdlog-build/tests/CMakeFiles/spdlog-utests.dir/test_fmt_helper.cpp.obj	27395f7196ced551
+9397	12733	7690447079150474	_deps/spdlog-build/tests/CMakeFiles/spdlog-utests.dir/test_time_point.cpp.obj	518141aed9d5016e
+8168	13116	7690447066861185	_deps/spdlog-build/tests/CMakeFiles/spdlog-utests.dir/test_backtrace.cpp.obj	dfcfc168f0ad4e3f
+7935	12962	7690447064535188	_deps/spdlog-build/tests/CMakeFiles/spdlog-utests.dir/test_stdout_api.cpp.obj	9cd5e01b17707e9e
+2678	4555	7691034532219225	CMakeFiles/PHOST.dir/ProgressManager.cpp.obj	a16e03b10cd2877a
+8749	13280	7690447072675761	_deps/spdlog-build/tests/CMakeFiles/spdlog-utests.dir/test_cfg.cpp.obj	d7b58d40f452ab8
+8475	13670	7690447069931878	_deps/spdlog-build/tests/CMakeFiles/spdlog-utests.dir/test_create_dir.cpp.obj	5f2986b7ec02fc39
+12105	14206	7690447123915536	D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/PHOST_autogen/EWIEGA46WW/qrc_Resources.cpp	195701c1b156666c
+3068	6518	7691034536120103	CMakeFiles/PHOST.dir/ResizableEllipseItem.cpp.obj	3b4be3df27c6c478
+14242	19069	7690447127601745	CMakeFiles/PHOST.dir/CameraPositionManager.cpp.obj	8cfd83b9341a4f6b
+14262	19735	7690447127811791	CMakeFiles/PHOST.dir/NormalConverter.cpp.obj	9971c5c88b83571c
+2664	9765	7691034532079196	CMakeFiles/PHOST.dir/RCProcessLauncher.cpp.obj	f542cfeb48d12e2c
+19202	22498	7690447177208508	CMakeFiles/PHOST.dir/app.rc.res	d4e68ea47da54583
+2649	10027	7691034531929161	CMakeFiles/PHOST.dir/DatasetManager.cpp.obj	6639590bd257ed0b
+22498	23799	7690447210164688	_deps/spdlog-build/tests/spdlog-utests.exe	28a96fb2e1251a40
+1398	6863	7691051373898081	CMakeFiles/PHOST.dir/ProjectWindow.cpp.obj	d171a77338c0cfbd
+1387	7388	7691051373787805	CMakeFiles/PHOST.dir/Main.cpp.obj	61786b7c92098e8a
+1392	9451	7691051373837809	CMakeFiles/PHOST.dir/Window.cpp.obj	60858ecf44d75caa
+9452	11083	7691051454434632	CMakeFiles/PHOST.dir/cmake_device_link.obj	1c88ffeaa6dcd8
+1409	4522	7691051374007853	CMakeFiles/PHOST.dir/RainbowText.cpp.obj	e99c2609c854b15c
+4555	9382	7691034550991083	CMakeFiles/PHOST.dir/SlidingIndicatorWidget.cpp.obj	6fc2b406140a4b72
+1414	7269	7691051374057862	CMakeFiles/PHOST.dir/Worker.cpp.obj	7eae9a42370eaffc
+163	465	7691052664081970	PHOST_autogen/timestamp	6acff3b56644313e
+163	465	7691052664081970	PHOST_autogen/mocs_compilation.cpp	6acff3b56644313e
+163	465	7691052664081970	D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/PHOST_autogen/timestamp	6acff3b56644313e
+163	465	7691052664081970	D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/PHOST_autogen/mocs_compilation.cpp	6acff3b56644313e
+476	4741	7691052667213620	CMakeFiles/PHOST.dir/ProjectWindow.cpp.obj	d171a77338c0cfbd
+468	6833	7691052667133604	CMakeFiles/PHOST.dir/Window.cpp.obj	60858ecf44d75caa
+6833	8343	7691052730788378	CMakeFiles/PHOST.dir/cmake_device_link.obj	1c88ffeaa6dcd8
+8343	10638	7691052745874324	PHOST.exe	fb8f99d5338ab071
+408	916	7691688182915509	PHOST_autogen/timestamp	6acff3b56644313e
+408	916	7691688182915509	PHOST_autogen/mocs_compilation.cpp	6acff3b56644313e
+408	916	7691688182915509	D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/PHOST_autogen/timestamp	6acff3b56644313e
+408	916	7691688182915509	D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/PHOST_autogen/mocs_compilation.cpp	6acff3b56644313e
+971	4461	7691688188535970	CMakeFiles/PHOST.dir/CameraPositionManager.cpp.obj	8cfd83b9341a4f6b
+951	4594	7691688188335905	CMakeFiles/PHOST.dir/PhotometricStereo.cpp.obj	e8eace73e6777a46
+982	5970	7691688188645997	CMakeFiles/PHOST.dir/NormalConverter.cpp.obj	9971c5c88b83571c
+1000	7347	7691688188826038	CMakeFiles/PHOST.dir/MaskEditorView.cpp.obj	f3133778658d8706
+960	7430	7691688188425950	CMakeFiles/PHOST.dir/RCProcessLauncher.cpp.obj	f542cfeb48d12e2c
+965	7950	7691688188475953	CMakeFiles/PHOST.dir/TextureGenerator.cpp.obj	af4a5ceaa6e24591
+994	8494	7691688188766019	CMakeFiles/PHOST.dir/ProjectWindow.cpp.obj	d171a77338c0cfbd
+1006	8920	7691688188886050	CMakeFiles/PHOST.dir/Worker.cpp.obj	7eae9a42370eaffc
+976	8965	7691688188585981	CMakeFiles/PHOST.dir/Main.cpp.obj	61786b7c92098e8a
+988	11315	7691688188706006	CMakeFiles/PHOST.dir/Window.cpp.obj	60858ecf44d75caa
+11316	14936	7691688291986674	CMakeFiles/PHOST.dir/cmake_device_link.obj	1c88ffeaa6dcd8
+14937	63973	7691688328195872	PHOST.exe	fb8f99d5338ab071
+173	574	7691730719691325	PHOST_autogen/timestamp	6acff3b56644313e
+173	574	7691730719691325	PHOST_autogen/mocs_compilation.cpp	6acff3b56644313e
+173	574	7691730719691325	D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/PHOST_autogen/timestamp	6acff3b56644313e
+173	574	7691730719691325	D:/Qt Projects/PHOST Program/PHOST/PHOST/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/PHOST_autogen/mocs_compilation.cpp	6acff3b56644313e
+576	3900	7691730723712232	CMakeFiles/PHOST.dir/NormalConverter.cpp.obj	9971c5c88b83571c
+591	5231	7691730723872257	CMakeFiles/PHOST.dir/ProjectWindow.cpp.obj	d171a77338c0cfbd
+584	7740	7691730723802249	CMakeFiles/PHOST.dir/Window.cpp.obj	60858ecf44d75caa
+7740	10994	7691730795357509	CMakeFiles/PHOST.dir/cmake_device_link.obj	1c88ffeaa6dcd8
+10995	54132	7691730827903526	PHOST.exe	fb8f99d5338ab071
