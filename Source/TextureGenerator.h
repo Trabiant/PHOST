@@ -9,7 +9,7 @@ class TextureGenerator {
 public:
 	explicit TextureGenerator(const std::filesystem::path& root,
         const cv::Mat& mask_, size_t baseCount, CameraPositionManager& CamPosMng);
-	void PrepareBaseColor(const std::vector<ImageData>& package) const;
+	void PrepareBaseColor(const std::vector<ImageData>& package);
 	void ProcessTextures(std::vector<ImageData>& package, bool useDirectX_NormalMap);
 	const std::filesystem::path& getTextureFolder() const { return textureFolder; }
 private:

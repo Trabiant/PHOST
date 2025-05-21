@@ -15,6 +15,6 @@ private:
     CameraPosition position_;
     Mat3x3 rotPOD_;
 
-    static cv::Vec3b transformNormalCPU(const cv::Vec3b& in, const Mat3x3& R);
-    static Mat3x3 makeRotationPOD(const CameraPosition& pos);
+    cv::Vec3b transformNormalCPU(const cv::Vec3b& in, const Mat3x3& R);
+    Mat3x3 makeRotationPOD(const CameraPosition& pos);
 };

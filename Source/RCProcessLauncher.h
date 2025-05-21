@@ -8,7 +8,6 @@ public:
     RCProcessLauncher(const std::filesystem::path& appPath, TextureGenerator& texGenerator,
         const std::filesystem::path& projectRoot, std::string Name);
     void ExecuteCommand(const std::string& command);
-    void SetRCProjectPath(const std::string& projectPath);
     std::string BuildTextureCommand() const;
     std::string BuildModelCommand(int quality) const;
 

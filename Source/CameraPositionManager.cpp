@@ -3,7 +3,6 @@
 #include <sstream>
 #include <spdlog/spdlog.h>
 #include <stdexcept>
-#include <algorithm>
 
 CameraPositionManager::CameraPositionManager(std::string filename)
 	: camera_position_filename(filename) {
@@ -30,18 +29,14 @@ void CameraPositionManager::LoadPositions() {
 }
 
 bool CameraPositionManager::GetCameraPosition(const std::string& filename, CameraPosition& camPos) {
-    auto it = std::find_if(camera_positions.begin(), camera_positions.end(),
-        [&filename](const CameraPosition& p) {
-            return p.ImageName == filename;
-        });
-    if (it != camera_positions.end()) {
-        camPos = *it;
-        return true;
+    for (const CameraPosition& p : camera_positions) {
+        if (p.ImageName == filename) {
+            camPos = p;
+            return true;
+        }
     }
-    else {
-        spdlog::warn("Package {} skipped: Position Not Found", filename);
-        return false;
-    }
+    spdlog::warn("Package {} skipped: Position Not Found", filename);
+    return false;
 }
 
 void CameraPositionManager::ParseLine(CameraPosition& pos, const std::string& line) {

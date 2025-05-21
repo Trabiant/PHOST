@@ -65,16 +65,6 @@ std::string RCProcessLauncher::BuildModelCommand(int quality) const {
     return cmd.str();
 }
 
-void RCProcessLauncher::SetRCProjectPath(const std::string& projectPath) {
-    auto trim_quotes = [](const std::string& input) -> std::string {
-        if (!input.empty() && input.front() == '"' && input.back() == '"' && input.length() >= 2) {
-            return input.substr(1, input.length() - 2);
-        }
-        return input;
-    };
-
-    rcprojPath = trim_quotes(projectPath);
-}
 
 // Обращение к движку фотограмметрии
 void RCProcessLauncher::ExecuteCommand(const std::string& command) {

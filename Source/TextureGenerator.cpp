@@ -23,7 +23,7 @@ TextureGenerator::TextureGenerator(const std::filesystem::path& root,
     cv::cvtColor(invMask, invMask, cv::COLOR_GRAY2BGR);
 }
 
-void TextureGenerator::PrepareBaseColor(const std::vector<ImageData>& package) const {
+void TextureGenerator::PrepareBaseColor(const std::vector<ImageData>& package) {
     auto& baseColor = package[0];
     cv::bitwise_and(baseColor.image, invMask, baseColor.image);
     cv::imwrite((textureFolder / baseColor.filename).string(), baseColor.image);
